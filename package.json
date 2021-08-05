@@ -1,0 +1,17 @@
+{
+  "name": "stockbot",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "bot.js",
+  "dependencies": {
+    "capture-website": "^1.2.8",
+    "discord.js": "^12.5.1",
+    "url-to-screenshot": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
